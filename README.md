@@ -3,4 +3,4 @@ This project functions by retrieving and displaying current weather conditions o
 
 # Code
 - [Complete Weather Station Code](Weather_Station_Serial_Print.ino)
-- [Connect ESP32 to Wifi](Connecting_ESP32_Wifi.ino)
+- [Connect ESP32 to Wifi](Connecting_ESP32_WiFi.ino)
