@@ -9,6 +9,9 @@ This project functions by retrieving and displaying current weather conditions o
 # Schematics
 ![Headstone Image](ESP32_Weather_Station_Picture.png)
 
+# Project Notes:Challenges & Fixes
+In the completion of this project I ran into many troubleshooting with reframing this project. The original layout of the project was to retrieve data from one ESP 32 and display it on the alternative screen. In my reframing to my project I decided to retrieve data from an open API weather source then display my desired location. In setting up the retrieval of the data from the API to then display the data required the conversion and deserialization. In the completion of setting up the API and OLED using I2C communication protocols, I added an additional on site measurement. The anemometer I ordered came with no direct connection port to plug jumper wires in, so I had to strip the wire down. The original part came with no direct labeling with wiring, but since the part came with one two wires I found that the voltage change across the sensor would occur as it spins. I tested the anemometer with the blue wire connected to GND and brown wire to D2.
+
 # Materials Required
 
 | **Part** | **Note** | **Price** | **Link** |
