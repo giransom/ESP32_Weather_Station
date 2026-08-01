@@ -7,7 +7,7 @@ This project functions by retrieving and displaying current weather conditions o
 - [Test code for Anemometer Sensor](Anemometer_Test_Code.ino)
 
 # Schematics
-![Headstone Image](.png)
+![Headstone Image](ESP32_Weather_Station_Picture.png)
 
 # Materials Required
 
