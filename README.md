@@ -6,6 +6,9 @@ This project functions by retrieving and displaying current weather conditions o
 - [Connect ESP32 to Wifi](Connecting_ESP32_WiFi.ino)
 - [Test code for Anemometer Sensor](Anemometer_Test_Code.ino)
 
+# Schematics
+![Headstone Image](.png)
+
 # Materials Required
 
 | **Part** | **Note** | **Price** | **Link** |
